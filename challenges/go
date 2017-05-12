@@ -1,2 +1,2 @@
 #!/bin/bash
-g++ hackerrank.cpp -o hackerrank --std=c++11
+g++ hackerrank.cpp -o hackerrank -g --std=c++11
